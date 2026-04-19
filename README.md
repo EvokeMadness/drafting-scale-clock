@@ -1,4 +1,4 @@
-# Triangular Scale Clock
+# Drafting Scale Clock
 
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1691516-triangular-scale-clock)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7336565)
