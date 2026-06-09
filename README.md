@@ -3,15 +3,11 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1691516-triangular-scale-clock)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7336565)
 
-## Summary
-
-A clock in the profile of a triangular drafting scale!
-
 * * *
 
 # Summary
 
-A clock in the profile of a triangular drafting scale!
+### A clock in the profile of a triangular drafting scale!
 
 - **What's Included:**
     - Clock body
