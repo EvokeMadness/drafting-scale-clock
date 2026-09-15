@@ -1,7 +1,7 @@
 # Drafting Scale Business Card Holder
 
-- Download from Printables here: [`Download Link`](https://www.printables.com/@EvokeMadness_492935)
-- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/EvokeMadness/designs)
+- Download from Printables here: [`Download Link`](https://www.printables.com/model/1843672-drafting-scale-business-card-holder)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7410290)
 
 * * *
 
@@ -21,7 +21,7 @@ This model is based on my [Drafting Scale Clock]() office decor.
 
 - **Notes**
     - Holds approximately 20 business cards
-    - Maximum card dimensions: 3.5" x 2"
+    - Maximum card dimensions: 3.5 inches by 2 inches
 
 * * *
 
